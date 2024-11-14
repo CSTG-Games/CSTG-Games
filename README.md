@@ -2,12 +2,6 @@
 
 <html lang=”en”>
 
-  <head>
-
-    <title>My Website [Name of the website]</title>
-
-  </head>
-
   <body>
 
     <main>
