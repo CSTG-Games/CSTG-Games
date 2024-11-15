@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-<html lang=”en”>
   <body>
     <main>
 
@@ -9,4 +7,3 @@
 
     </main>
   </body>
-</html>
